@@ -18,5 +18,5 @@ This repository includes:
 
 Due to data restrictions, **the notebook cannot be executed without the dataset**, but all model code, methodology, and workflow are fully visible.
 
- 
+A detailed summary of the analysis can be found here: **(https://github.com/katarinatmb/beach-illness-ml/blob/main/docs/Summary_Analysis.pdf)**
 
