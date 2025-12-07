@@ -1,6 +1,5 @@
 # Predicting Gastrointestinal Illness Severity from Beach Water Quality  
 ### Machine Learning Analysis Using the Santa Monica Bay Epidemiological Study  
-**Author: Katarina Barbosa**
 
 This repository contains the machine learning models and analysis used to predict gastrointestinal (GI) illness severity among beachgoers based on bacterial contamination, environmental exposure, and demographic factors. The project uses data from the Santa Monica Bay Epidemiological Study but **the raw dataset is not included in this repository due to privacy restrictions**.
 
