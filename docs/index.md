@@ -63,6 +63,7 @@ XGBoost produced more balanced predictions and better identified high-severity c
 
 ## Repository Structure
 
+- Blog Type Summary of Project: `Predicting GI Illness Severity scores blog.pdf`
 - Full modeling code: `analysis.ipynb`  
 - Project README: `README.md`  
 - This documentation page: `docs/index.md`
