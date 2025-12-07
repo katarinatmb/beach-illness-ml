@@ -59,14 +59,7 @@ XGBoost produced more balanced predictions and better identified high-severity c
 - Symptom variables strongly predicted continuous severity  
 - Age, race, and distance from storm drains influenced predictions  
 
----
 
-## Repository Structure
-
-- Blog Type Summary of Project: `Predicting GI Illness Severity scores blog.pdf`
-- Full modeling code: `analysis.ipynb`  
-- Project README: `README.md`  
-- This documentation page: `docs/index.md`
 
 
 
